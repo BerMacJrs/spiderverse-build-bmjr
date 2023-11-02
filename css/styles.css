@@ -29,7 +29,7 @@ header {
     background-color: #675050;
     background-image: url('../images/spidermancover.png');
     background-repeat: no-repeat;
-    background-size :cover;
+    background-size: cover;
     background-blend-mode: multiply;
 }
 
@@ -96,7 +96,7 @@ article p, #instructions p {
 
 footer {
     text-align: center;
-    padding: 50px 0;
+    padding: 2px 0px 40px 0px;
 }
 
 .sticky_footer {
