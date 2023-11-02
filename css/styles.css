@@ -23,14 +23,12 @@ header {
     width: 300px;
     display: block;
     margin: 0 auto;
-    /*margin top and bottom, 0.
-    margin left and right auto. */
     box-shadow: 0px 0px 10px white;
 }
 
 #character_nav {
     background-color: #675050;
-    background-image: url('../images/characters_art_mas_mob_01.jpeg');
+    background-image: url('../images/spidermancover.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: multiply;
@@ -84,7 +82,7 @@ article p, #instructions p {
 .sprite {
     width: 150px;
     height: 150px;
-    background-image: url('../images/marvelSprites.jpg')
+    background-image: url('../images/spidermanSprites.jpg')
 }
 
 #carol {background-position: -150px 0;}
