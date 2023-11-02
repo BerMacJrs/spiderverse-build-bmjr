@@ -1,5 +1,5 @@
-# marvel-build-bmjr
-This is a repository about the Marvel build assignment revolving around the CSS light-box and sprites.
+# spiderman-build-bmjr :spider_web:
+Welcome! This is a repository about the website build assignment revolving around CSS light-boxes and sprites. The topic for this repo is about the characters of the movie "Spiderman: Across the Spider-verse" (2023). Thanks for viewing!
 
 ## Contributing :bookmark:
 1. Fork it!
@@ -14,7 +14,7 @@ __Created on November 01, 2023__
 Updated on the following days:
 - Coming Soon!
 
-## Credits 	:office_worker:
+## Credits 	:adult:
 __Officially Published by:__
 
 Bernardo B. Macapagal, Jr.
