@@ -15,8 +15,8 @@ body {
 }
 
 header {
-    background-color: midnightblue;
-    padding: 30px 0;
+    background-color: rebeccapurple;
+    padding: 25px 0;
 }
 
 #main-logo {
@@ -29,7 +29,7 @@ header {
     background-color: #675050;
     background-image: url('../images/spidermancover.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size :cover;
     background-blend-mode: multiply;
 }
 
@@ -46,12 +46,12 @@ header {
     margin: 10px 8px;
     text-align: left;
     cursor: pointer;
-    box-shadow: 0px 155px 0px darkorchid inset;
+    box-shadow: 0px 155px 0px rebeccapurple inset;
     transition: box-shadow .2s ease;
 }
 
 .characters li:hover {
-    box-shadow: 0px 220px 0px darkorchid inset;
+    box-shadow: 0px 220px 0px rebeccapurple inset;
 }
 
 .characters li h5 {
@@ -101,7 +101,7 @@ footer {
 
 .sticky_footer {
     height: 80px;
-    background-color: black;
+    background-color: rebeccapurple;
     position: sticky;
     top: 100%;
 }
