@@ -176,7 +176,7 @@ footer {
     background-image: url('../images/gwen.png');
     background-repeat: no-repeat;
     background-size: 85vh;
-    background-position: 40px bottom;
+    background-position: 7px bottom;
     display: none;
 }
 
@@ -199,8 +199,8 @@ footer {
     background-color: rgba(0,0,0, 0.85);
     background-image: url('../images/peter.png');
     background-repeat: no-repeat;
-    background-size: 76vh;
-    background-position: 40px bottom;
+    background-size: 93vh;
+    background-position: 5px bottom;
     display: none;
 }
 
@@ -221,10 +221,10 @@ footer {
     width: 100vw;
     height: 100vh;
     background-color: rgba(0,0,0, 0.85);
-    background-image: url('../images/miguel.png');
+    background-image: url('../images/pavitr.png');
     background-repeat: no-repeat;
-    background-size: 55vh;
-    background-position: 40px bottom;
+    background-size: 78vh;
+    background-position: 30px bottom;
     display: none;
 }
 
@@ -245,10 +245,10 @@ footer {
     width: 100vw;
     height: 100vh;
     background-color: rgba(0,0,0, 0.85);
-    background-image: url('../images/pavitr.png');
+    background-image: url('../images/miguel.png');
     background-repeat: no-repeat;
-    background-size: 55vh;
-    background-position: 40px bottom;
+    background-size: 98vh;
+    background-position: -35px bottom;
     display: none;
 }
 
@@ -271,7 +271,7 @@ footer {
     background-color: rgba(0,0,0, 0.85);
     background-image: url('../images/jessica.png');
     background-repeat: no-repeat;
-    background-size: 55vh;
+    background-size: 68vh;
     background-position: 40px bottom;
     display: none;
 }
