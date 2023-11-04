@@ -19,6 +19,10 @@ header {
     padding: 25px 0;
 }
 
+.hidden {
+    display:none;
+}
+
 #main-logo {
     width: 300px;
     display: block;
@@ -169,7 +173,7 @@ footer {
     width: 100vw;
     height: 100vh;
     background-color: rgba(0,0,0, 0.85);
-    background-image: url('../images/Thor_LB_Bg.png');
+    background-image: url('../images/gwen_stacy.png');
     background-repeat: no-repeat;
     background-size: 55vh;
     background-position: 40px bottom;
@@ -183,5 +187,101 @@ footer {
 }
 
 .lightbox2:target {
+    display: block;
+}
+
+.lightbox3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0,0,0, 0.85);
+    background-image: url('../images/Thor_LB_Bg.png');
+    background-repeat: no-repeat;
+    background-size: 55vh;
+    background-position: 40px bottom;
+    display: none;
+}
+
+.lightbox3 article {
+    width: 55%;
+    margin-left: 40%;
+    padding-top: 50px;
+}
+
+.lightbox3:target {
+    display: block;
+}
+
+.lightbox4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0,0,0, 0.85);
+    background-image: url('../images/Thor_LB_Bg.png');
+    background-repeat: no-repeat;
+    background-size: 55vh;
+    background-position: 40px bottom;
+    display: none;
+}
+
+.lightbox4 article {
+    width: 55%;
+    margin-left: 40%;
+    padding-top: 50px;
+}
+
+.lightbox4:target {
+    display: block;
+}
+
+.lightbox5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0,0,0, 0.85);
+    background-image: url('../images/Thor_LB_Bg.png');
+    background-repeat: no-repeat;
+    background-size: 55vh;
+    background-position: 40px bottom;
+    display: none;
+}
+
+.lightbox5 article {
+    width: 55%;
+    margin-left: 40%;
+    padding-top: 50px;
+}
+
+.lightbox5:target {
+    display: block;
+}
+
+.lightbox6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0,0,0, 0.85);
+    background-image: url('../images/Thor_LB_Bg.png');
+    background-repeat: no-repeat;
+    background-size: 55vh;
+    background-position: 40px bottom;
+    display: none;
+}
+
+.lightbox6 article {
+    width: 55%;
+    margin-left: 40%;
+    padding-top: 50px;
+}
+
+.lightbox6:target {
     display: block;
 }
