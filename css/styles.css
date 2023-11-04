@@ -101,7 +101,15 @@ footer {
 
 .sticky_footer {
     height: 80px;
+    width: 100vw;
     background-color: rebeccapurple;
     position: sticky;
     top: 100%;
+    display: inline-flex;
+    align-items: center;    
+    justify-content: center;
+}
+
+#footer_text {
+    margin: 0 0 0 5px;
 }
