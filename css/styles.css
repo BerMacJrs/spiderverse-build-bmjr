@@ -15,7 +15,7 @@ body {
 }
 
 header {
-    background-color: rebeccapurple;
+    background: linear-gradient(45deg, rebeccapurple, midnightblue);
     padding: 25px 0;
 }
 
@@ -106,7 +106,7 @@ footer {
 .sticky_footer {
     height: 80px;
     width: 100vw;
-    background-color: rebeccapurple;
+    background: linear-gradient(90deg, rebeccapurple, midnightblue);
     position: sticky;
     top: 100%;
     display: inline-flex;
