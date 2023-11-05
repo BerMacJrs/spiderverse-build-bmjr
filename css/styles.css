@@ -162,6 +162,10 @@ footer {
     line-height: 26px;
 }
 
+.lb_heading {
+    color:mediumorchid;
+}
+
 .lightbox:target {
     display: block;
 }
