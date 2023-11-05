@@ -12,7 +12,8 @@ Welcome! This is a repository about the website build assignment revolving aroun
 __Created on November 01, 2023__
 
 Updated on the following days:
-- Coming Soon!
+- November 03, 2023
+- November 04, 2023
 
 ## Credits 	:adult:
 __Officially Published by:__
