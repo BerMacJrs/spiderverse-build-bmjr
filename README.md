@@ -1,7 +1,7 @@
 # spiderman-build-bmjr :spider_web: :purple_circle:
 Welcome! This is a repository about the website build assignment revolving around CSS light-boxes and sprites. The topic for this repo is about the characters of the movie "Spiderman: Across the Spider-verse" (2023). Warning: Spoilers of the characters ahead, if you haven't watch or wanted to watch the following movie. Thanks for viewing!
 
-![Spiderverse Banner](/images/cover2.jpg)
+![Spiderverse Banner](/images/cover.jpg)
 
 ## Contributing :bookmark: :red_circle:
 1. Fork it!
